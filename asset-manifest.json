@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/Digital-Twin1_1/static/css/main.802d846c.css",
-    "main.js": "/Digital-Twin1_1/static/js/main.9c2d6b49.js",
-    "static/media/sideblurman.png": "/Digital-Twin1_1/static/media/sideblurman.554aaaff66f954541ed1.png",
-    "static/media/sideman.png": "/Digital-Twin1_1/static/media/sideman.ad8c84f4e6135838373d.png",
-    "static/media/Poppins-Thin.ttf": "/Digital-Twin1_1/static/media/Poppins-Thin.59ff6a729e30c99b478e.ttf",
-    "static/media/Poppins-ExtraLight.ttf": "/Digital-Twin1_1/static/media/Poppins-ExtraLight.333cb30c20e31999802a.ttf",
-    "static/media/Poppins-Light.ttf": "/Digital-Twin1_1/static/media/Poppins-Light.7641a0f76ca9ef6c252c.ttf",
-    "static/media/Poppins-Regular.ttf": "/Digital-Twin1_1/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
-    "static/media/Poppins-Medium.ttf": "/Digital-Twin1_1/static/media/Poppins-Medium.673ed42382ab264e0bf5.ttf",
-    "static/media/Poppins-SemiBold.ttf": "/Digital-Twin1_1/static/media/Poppins-SemiBold.ac8d04b620e54be9b0f0.ttf",
-    "static/media/Poppins-Bold.ttf": "/Digital-Twin1_1/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
-    "static/media/Poppins-ExtraBold.ttf": "/Digital-Twin1_1/static/media/Poppins-ExtraBold.01849ee091e1762a5dd5.ttf",
-    "static/media/Poppins-Black.ttf": "/Digital-Twin1_1/static/media/Poppins-Black.d8b850b920a5ef49d752.ttf",
-    "static/media/side.png": "/Digital-Twin1_1/static/media/side.eb5c82095bb4bc1cf1cd.png",
-    "static/media/blurman.png": "/Digital-Twin1_1/static/media/blurman.cd280a5fcdec31ff247d.png",
-    "static/media/man.png": "/Digital-Twin1_1/static/media/man.c64f3a18833cdc299918.png",
-    "static/media/profile.png": "/Digital-Twin1_1/static/media/profile.dd3f83cb79ef58a39700.png",
-    "static/media/logo.png": "/Digital-Twin1_1/static/media/logo.852ebd0cfb713fc94c70.png",
-    "index.html": "/Digital-Twin1_1/index.html",
-    "main.802d846c.css.map": "/Digital-Twin1_1/static/css/main.802d846c.css.map",
-    "main.9c2d6b49.js.map": "/Digital-Twin1_1/static/js/main.9c2d6b49.js.map"
+    "main.css": "/Digital-Twin/static/css/main.96a3b432.css",
+    "main.js": "/Digital-Twin/static/js/main.9ed5fe8d.js",
+    "static/media/sideblurman.png": "/Digital-Twin/static/media/sideblurman.554aaaff66f954541ed1.png",
+    "static/media/sideman.png": "/Digital-Twin/static/media/sideman.ad8c84f4e6135838373d.png",
+    "static/media/Poppins-Thin.ttf": "/Digital-Twin/static/media/Poppins-Thin.59ff6a729e30c99b478e.ttf",
+    "static/media/Poppins-ExtraLight.ttf": "/Digital-Twin/static/media/Poppins-ExtraLight.333cb30c20e31999802a.ttf",
+    "static/media/Poppins-Light.ttf": "/Digital-Twin/static/media/Poppins-Light.7641a0f76ca9ef6c252c.ttf",
+    "static/media/Poppins-Regular.ttf": "/Digital-Twin/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Poppins-Medium.ttf": "/Digital-Twin/static/media/Poppins-Medium.673ed42382ab264e0bf5.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/Digital-Twin/static/media/Poppins-SemiBold.ac8d04b620e54be9b0f0.ttf",
+    "static/media/Poppins-Bold.ttf": "/Digital-Twin/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/Digital-Twin/static/media/Poppins-ExtraBold.01849ee091e1762a5dd5.ttf",
+    "static/media/Poppins-Black.ttf": "/Digital-Twin/static/media/Poppins-Black.d8b850b920a5ef49d752.ttf",
+    "static/media/side.png": "/Digital-Twin/static/media/side.eb5c82095bb4bc1cf1cd.png",
+    "static/media/blurman.png": "/Digital-Twin/static/media/blurman.cd280a5fcdec31ff247d.png",
+    "static/media/man.png": "/Digital-Twin/static/media/man.c64f3a18833cdc299918.png",
+    "static/media/profile.png": "/Digital-Twin/static/media/profile.dd3f83cb79ef58a39700.png",
+    "static/media/logo.png": "/Digital-Twin/static/media/logo.852ebd0cfb713fc94c70.png",
+    "index.html": "/Digital-Twin/index.html",
+    "main.96a3b432.css.map": "/Digital-Twin/static/css/main.96a3b432.css.map",
+    "main.9ed5fe8d.js.map": "/Digital-Twin/static/js/main.9ed5fe8d.js.map"
   },
   "entrypoints": [
-    "static/css/main.802d846c.css",
-    "static/js/main.9c2d6b49.js"
+    "static/css/main.96a3b432.css",
+    "static/js/main.9ed5fe8d.js"
   ]
 }
