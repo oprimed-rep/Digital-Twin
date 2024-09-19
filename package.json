@@ -21,7 +21,8 @@
     "tailwindcss": "^3.4.4",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://qudgus21.github.io/let/",
+  "homepage": "https://oprimed-rep.github.io/Digital-Twin1_1/",
+  
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
