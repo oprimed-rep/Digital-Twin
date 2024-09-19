@@ -21,7 +21,7 @@
     "tailwindcss": "^3.4.4",
     "web-vitals": "^2.1.4"
   },
-  "homepage" : "https://oprimed-rep.github.io/Digital-Twin/",
+  "homepage": "https://oprimed-rep.github.io/Digital-Twin/",
   
   "scripts": {
     "start": "react-scripts start",
